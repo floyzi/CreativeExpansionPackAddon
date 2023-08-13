@@ -1,7 +1,8 @@
 # Creative Expansion Pack Addon
 
-![logo](https://github.com/floyzi/CreativeExpansionPackAddon/assets/72631687/fb5d15cc-310f-4b2a-b31d-af8a51e11c1e)
+![logo](https://github.com/floyzi/CreativeExpansionPackAddon/assets/72631687/b11b68be-f7c7-4cb7-9a6d-da7babb1ae97)
 > A Fall Guys mod meant to improve Fall Guys Creative.
+
 
 
 ## Questions and Answers
