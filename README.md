@@ -26,7 +26,7 @@ How do the others scale obstacles?
 > Scaling objects in currently not part of Creative Expansion Pack's feature set, tools used to scale objects will not be mentionned here however.
 
 Is there a discord for this mod?
-> Yes, here's the link : https://discord.gg/CCxwnPjJce (this mod is not affiled with kota's discord, if you have any questions feel free to ask me on my [twitter](https://twitter.com/floyzi102) 
+> Yes, here's the link : https://discord.gg/CCxwnPjJce (this mod is not affiled with kota's discord, if you have any questions feel free to ask me on my [twitter](https://twitter.com/floyzi102))
 
 I can't play normal Fall Guys when Creative Expansion Pack is installed, how to deal with that?!
 > You can't, in order to play the normal game you got to uninstall BepinEx, you can do that by using the "Restore_EAC" batch script in your game's root and quickly switch back to the mod by using the "Install_BepinEx" batch script that's in the same folder.
