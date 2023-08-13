@@ -32,7 +32,7 @@ I can't play normal Fall Guys when Creative Expansion Pack is installed, how to 
 
 ## Installation Guide 
 
- 1. Download the latest release [here](https://github.com/floyzi/CreativeExpansionPackAddon/releases/).
+ 1. Download the latest release [here](https://github.com/floyzi/CreativeExpansionPackAddon/releases/tag/Pre-release).
  
  2. Drop everything within the .zip file in the the zip file into your game's root,
  
